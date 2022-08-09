@@ -1,0 +1,4 @@
+.Datadisplay div div:nth-last-child(1){
+ color: red;
+ cursor: pointer;
+}
